@@ -54,6 +54,9 @@ index=main sourcetype=_json
 | sort - count
 ```
 
+(screenshots/Event command splunk.png)
+
+
 Conta os eventos por tipo, ajudando a identificar quais categorias foram registradas com maior frequência.
 
 ### Tentativas de autenticação malsucedidas
