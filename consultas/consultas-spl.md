@@ -88,13 +88,4 @@ index=main sourcetype=_json eventid="cowrie.session.connect"
 
 **Uso na análise:** identificar as origens mais frequentes dentro dos dados coletados.
 
-## Observações
 
-- Os resultados dependem dos eventos existentes no ambiente e do período selecionado no Splunk.
-- Um evento de login aceito pelo Cowrie representa uma sessão simulada pelo honeypot, não um acesso confirmado ao sistema operacional real.
-- Os testes deste projeto foram realizados em ambiente local. Portanto, os resultados não devem ser descritos como ataques reais originados da internet.
-- Antes de compartilhar capturas ou dados exportados, remova senhas, credenciais e outras informações sensíveis.
-
----
-
-Projeto pessoal de estudos em cibersegurança.
