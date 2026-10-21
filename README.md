@@ -54,7 +54,7 @@ index=main sourcetype=_json
 | sort - count
 ```
 
-![Eventos e comandos] (./screenshots/Eventcommandsplunk.png)
+![](./screenshots/Eventcommandsplunk.png)
 
 Conta os eventos por tipo, ajudando a identificar quais categorias foram registradas com maior frequência.
 
